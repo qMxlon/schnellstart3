@@ -4,10 +4,10 @@
 
 Untersützte Versionen (10.6.2020)
  ______________________________ <br />
-| Version | Unterstützt        |
-|_________| __________________ |
-| 1.0.0   | :white_check_mark: |
-|_________|____________________|
+| Version | Unterstützt        | <br />
+|_________| __________________ |<br />
+| 1.0.0   | :white_check_mark: |<br />
+|_________|____________________|<br />
 
 ## Eine Sicherheitslücke/Schwachstelle melden
 
