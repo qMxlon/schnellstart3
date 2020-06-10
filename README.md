@@ -1,2 +1,30 @@
-# Schnellstart3
-Schnellstart3 ist die Fortsetzung des Schnellstart-Tools, welches in Python 2.7 geschrieben wurde und deshalb nicht mehr unterstützt wird. Dieses Tool ermöglicht das schnelle und vereinfachte Nutzen einiger nützlichen Befehle.
+# Schnellstart - Ein nützliches Tool für Python3
+# Installation
+
+
+
+
+
+## Anforderungen
+
+Python3
+Internetverbindung
+
+
+
+
+
+
+
+## Installation und Ausführen auf Ubuntu & Kali
+`
+git clone https://github.com/DasPinguinHD/Schnellstart3
+cd Schnellstart3
+python3 start.py
+`
+
+
+
+
+# Lizense
+Du darfst dieses Tool verwenden, verändern und weiterverbreiten, solange du meinen Namen angibst.
