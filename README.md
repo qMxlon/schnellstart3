@@ -20,7 +20,7 @@ Python3, Internetverbindung, Root-Privilegien
 
 `cd Schnellstart3`
 
-`python3 start.py
+`sudo python3 start.py
 `
 
 
