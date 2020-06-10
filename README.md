@@ -9,7 +9,7 @@
 
 Python3
 Internetverbindung
-
+Root-Privilegien
 
 
 
@@ -26,5 +26,5 @@ python3 start.py
 
 
 
-# Lizense
+# Lizenz
 Du darfst dieses Tool verwenden, verändern und weiterverbreiten, solange du meinen Namen angibst.
