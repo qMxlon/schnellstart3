@@ -19,7 +19,9 @@ Root-Privilegien
 ## Installation und Ausführen auf Ubuntu & Kali
 `
 git clone https://github.com/DasPinguinHD/Schnellstart3
+
 cd Schnellstart3
+
 python3 start.py
 `
 
