@@ -7,9 +7,7 @@
 
 ## Anforderungen
 
-Python3
-Internetverbindung
-Root-Privilegien
+Python3, Internetverbindung, Root-Privilegien
 
 
 
@@ -18,7 +16,7 @@ Root-Privilegien
 
 ## Installation und Ausführen auf Ubuntu & Kali
 
-`git clone https://github.com/DasPinguinHD/Schnellstart3
+`git clone https://github.com/DasPinguinHD/Schnellstart3 <br />
 
 cd Schnellstart3
 
