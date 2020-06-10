@@ -2,7 +2,7 @@
 
 ## Untersützte Versionen
 
-Aktuelle Version: 1.0.0 :green_check_mark:
+Aktuelle Version: 1.0.0 :white_check_mark:
 
 ## Eine Sicherheitslücke/Schwachstelle melden
 
