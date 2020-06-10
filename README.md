@@ -26,4 +26,4 @@ Python3, Internetverbindung, Root-Privilegien
 
 
 # Lizenz
-Du darfst dieses Tool verwenden, verändern und weiterverbreiten, solange du meinen Namen angibst.
+Dieses Projekt ist mit der MIT Lizenz lizensiert
