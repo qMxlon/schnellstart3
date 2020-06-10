@@ -14,7 +14,7 @@ Python3, Internetverbindung, Root-Privilegien
 
 
 
-## Installation und Ausführen auf Ubuntu & Kali
+## Installation und Ausführen auf Ubuntu & Kali (Debian)
 
 `git clone https://github.com/DasPinguinHD/Schnellstart3`
 
