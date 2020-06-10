@@ -2,12 +2,7 @@
 
 ## Untersützte Versionen
 
-Untersützte Versionen (10.6.2020)<br />
- ______________________________ <br />
-| Version | Unterstützt        | <br />
-|_________| __________________ |<br />
-| 1.0.0   | :white_check_mark: |<br />
-|_________|____________________|<br />
+Aktuelle Version: 1.0.0 :green_check_mark:
 
 ## Eine Sicherheitslücke/Schwachstelle melden
 
