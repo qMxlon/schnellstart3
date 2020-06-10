@@ -2,7 +2,7 @@
 
 ## Untersützte Versionen
 
-Untersützte Versionen (10.6.2020)
+Untersützte Versionen (10.6.2020)<br />
  ______________________________ <br />
 | Version | Unterstützt        | <br />
 |_________| __________________ |<br />
