@@ -3,7 +3,7 @@
 ## Untersützte Versionen
 
 Untersützte Versionen (10.6.2020)
- ______________________________
+ ______________________________ <br />
 | Version | Unterstützt        |
 |_________| __________________ |
 | 1.0.0   | :white_check_mark: |
