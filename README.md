@@ -27,3 +27,10 @@ Python3, Internetverbindung, Root-Privilegien
 
 # Lizenz
 Dieses Projekt ist mit der MIT Lizenz lizensiert
+
+
+
+
+# Features
+
+Schnellstart3 beinhaltet Kürzel für Befehle wie airmon-ng, airodump, uvm. Außerdem enthält Schnellstart3 einen MsfVenom-Payload Generator
