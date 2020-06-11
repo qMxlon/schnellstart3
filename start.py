@@ -72,7 +72,6 @@ while l == 1:
         if varcmd == str(0):
             os.system('apt-get update && apt-get upgrade')
             os.system('apt-get install python')
-            os.system('apt-get install figlet toilet')
 
         elif varcmd == str(1):
             airmoncmd = input(bcolors.ENDC + "Gib ein" + bcolors.OKGREEN + " WLAN-Interface" + bcolors.ENDC + " ein (? für Hilfe): ")
@@ -131,6 +130,7 @@ while l == 1:
             print("(msf) MetaSploit Framework starten.")
             print("(xero) XeroSploit starten.")
             print("(router) RouterSploit starten.")
+            print("(msfvenom) MsfVenom-Generator starten.")
         elif varcmd == "msf":
             os.system("msfconsole")
         elif varcmd == "xero":
@@ -141,6 +141,8 @@ while l == 1:
             os.system("cd /home/" + pathcmd + "/")
             os.system("cd routersploit")
             os.system("python3 rsf.py")
+        elif varcmd == "msfvenom":
+            os.system("python3 msfvenomgenerator.py")
 
 
 
